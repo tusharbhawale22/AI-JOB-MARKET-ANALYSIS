@@ -27,13 +27,7 @@ AI-JOB-MARKET-ANALYSIS/
 │
 ├── notebooks/
 │   └── salary_analysis.ipynb           # Main Jupyter Notebook
-│
-├── images/                             # Chart screenshots
-│   ├── avg_salary_by_role.png
-│   ├── salary_trend_over_years.png
-│   ├── salary_by_experience.png
-│   ├── top_skills_high_salary.png
-│   └── salary_by_company_type.png
+│                   
 │
 ├── requirements.txt                    # Required Python libraries
 └── README.md                           # Project documentation
